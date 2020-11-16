@@ -1,0 +1,15 @@
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.exe
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.deps.json
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.runtimeconfig.json
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.runtimeconfig.dev.json
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.dll
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\BluetoothConnection.pdb
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.csprojAssemblyReference.cache
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.AssemblyInfoInputs.cache
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.AssemblyInfo.cs
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.csproj.CoreCompileInputs.cache
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.csproj.CopyComplete
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.dll
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.pdb
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\obj\Debug\netcoreapp3.1\BluetoothConnection.genruntimeconfig.cache
+C:\Users\piotr.rybka\OneDrive - Accenture\source\BluetoothConnection\BluetoothConnection\bin\Debug\netcoreapp3.1\Bluetooth.dll
